@@ -1,2 +1,3 @@
-# hello-world
-just another repository
+大家好！
+
+学无止境，很高兴能和大家在这里分享和交流代码学习的经验！
